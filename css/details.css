@@ -1,0 +1,82 @@
+html{
+    background: url(../images/background.jpg);
+    font-family: 'Helvetica',sans-serif;
+}
+
+div.container {
+    width: 100%;
+    background: rgba(0,0,0,0.2);
+}
+
+
+header{
+    padding: 0em;
+    color: white;
+    background: rgba(0,0,0,0.5);
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+.info{
+    margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+}
+
+table{
+  background: rgba(0,0,0,0.2);
+}
+
+th{
+    font-size: 30px;
+    color: white;
+    height: 40px;
+    background: rgba(0,0,0,0.5);
+    text-align: center;
+    width: 50%;
+}
+
+td{
+    text-align: center;
+    width: 50%;
+}
+
+div.table1{
+    margin-top: 40px;
+}
+
+div.class1{
+    width: 62%;
+    margin-left: 500px;
+    border: 1px solid black;
+    margin-top: 40px;
+    height: 247px;
+}
+
+div.class2{
+    width: 35%;
+    float:left;
+    border: 1px solid black;
+    margin-top: 40px;
+}
+
+#id1{
+    float: right;
+}
+
+div.fclass{
+    background-color: black;
+    color: white;
+}
+
+.social-icons a{
+    color :white;
+    font-size: 20px;
+}
